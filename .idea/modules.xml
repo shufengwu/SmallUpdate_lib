@@ -3,11 +3,18 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SmallUpdate_lib.iml" filepath="$PROJECT_DIR$/SmallUpdate_lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SmallUpdate_lib.iml" filepath="$PROJECT_DIR$/SmallUpdate_lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app.first/app.first.iml" filepath="$PROJECT_DIR$/app.first/app.first.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app.first/app.first.iml" filepath="$PROJECT_DIR$/app.first/app.first.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app.main/app.main.iml" filepath="$PROJECT_DIR$/app.main/app.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/app.main/app.main.iml" filepath="$PROJECT_DIR$/app.main/app.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/app.second/app.second.iml" filepath="$PROJECT_DIR$/app.second/app.second.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app.second/app.second.iml" filepath="$PROJECT_DIR$/app.second/app.second.iml" />
       <module fileurl="file://$PROJECT_DIR$/app.third/app.third.iml" filepath="$PROJECT_DIR$/app.third/app.third.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app.third/app.third.iml" filepath="$PROJECT_DIR$/app.third/app.third.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib.ours/lib.ours.iml" filepath="$PROJECT_DIR$/lib.ours/lib.ours.iml" />
       <module fileurl="file://$PROJECT_DIR$/lib.ours/lib.ours.iml" filepath="$PROJECT_DIR$/lib.ours/lib.ours.iml" />
     </modules>
   </component>
