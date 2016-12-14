@@ -1,0 +1,26 @@
+{
+  "version": "1.0.0",
+  "bundles": [
+    {
+      "uri": "main",
+      "pkg": "com.sfw.smallupdate.smallupdate_lib.app.main"
+    },
+    {
+      "uri": "first",
+      "pkg": "com.sfw.smallupdate.smallupdate_lib.app.first"
+    },
+    {
+      "uri": "second",
+      "pkg": "com.sfw.smallupdate.smallupdate_lib.app.second"
+    },
+    {
+      "uri": "third",
+      "pkg": "com.sfw.smallupdate.smallupdate_lib.app.third"
+    },
+    {
+      "uri": "lib.ours",
+      "pkg": "com.sfw.smallupdate.smallupdate_lib.lib.ours"
+    }
+
+  ]
+}
